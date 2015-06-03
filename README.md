@@ -6,7 +6,9 @@ A simple example demonstrated in a meetup in STL.
  - Move the ppcoin.conf file from this directory to the appropriate directory for your OS.
  ```
     For OSX:  ~/Library/Application Support/PPCoin/
+    
     For WINDOWS:  %APPDATA%\PPCoin\
+    
     For LINUX: ~/.ppcoin
  ```
  - Please edit the username/password in the ppcoin.conf file to anything (random). Close and re-run Peercoin's Wallet for your configuration changes to take effect.
